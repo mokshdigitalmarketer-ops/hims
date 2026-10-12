@@ -35,3 +35,4 @@ The application remains Streamlit-based. No Flask conversion was made.
 ## Notes
 
 Keep `frontend.py`, `backend.py`, and `hims.db` in the same folder so the database path remains relative to the application directory.
+# hims
